@@ -1,0 +1,38 @@
+﻿# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+\.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Logs & Temp
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Env
+.env
+.env.local
