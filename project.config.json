@@ -1,0 +1,17 @@
+﻿{
+  "description": "肉鸽塔防小游戏",
+  "packOptions": {},
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "compileType": "game",
+  "appid": "touristappid",
+  "projectname": "roguelike-tower-defense",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}
